@@ -1,1 +1,1 @@
-Non empty readme
+Doing coding is great 
